@@ -1,0 +1,3 @@
+[submodule "tosca"]
+	path = tosca
+	url = https://github.com/beeyingl/docker-tosca-types.git
